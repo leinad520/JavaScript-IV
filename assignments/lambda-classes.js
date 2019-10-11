@@ -4,7 +4,7 @@ class Person {
     constructor(obj) {
         this.name = obj.name;
         this.age = obj.age;
-        this.location = obj.location;
+        this.location = obj.location;``
     }
 
     speak() {
